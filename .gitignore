@@ -2,4 +2,16 @@ node_modules
 *.log
 lib
 package-lock.json
+.*
+build/*
+out/*
+out/
+bin/*
+*.iml
+hs_err_pid*
+atlassian-ide-plugin.xml
+/bin
+*/build
+/build/
+/opening-result
 
